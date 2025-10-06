@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Pallaviarepalli/pallavi2005/blob/main/coding.gif?raw=true">
+  <img src="https://github.com/Pallaviarepalli/Pallaviarepalli/blob/main/coding.gif?raw=true">
 </p>
 
 
