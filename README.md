@@ -11,7 +11,7 @@
 
 ## 🚀 About Me  
 ✅ **Check out my work:** [Portfolio](https://pallavi-portfolia.lovable.app/) 🌍  
-✅ **resume:** [Click Here](https://drive.google.com/file/d/1kqVEobF_1NSzBK9IUl92ML5NA4bUMvxV/view?usp=drive_link) 📄  
+✅ **resume:** [Click Here](https://drive.google.com/file/d/10WmCAoY6JwVXn69dDzPkQEUQaQ6rf1P2/view?usp=drive_link) 📄  
 ✅ **Reach me at:****pallavia005@gmail.com** ✉️  
 ✅ **Fun Fact:** Dark mode or light mode? Either way, GitHub still looks cool! 🌑☀️
 
