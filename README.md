@@ -10,7 +10,7 @@
 
 
 ## 🚀 About Me  
-✅ **Check out my work:** [Portfolio](https://github.com/Pallaviarepalli/My-Portfolio-.git) 🌍  
+✅ **Check out my work:** [Portfolio](https://pallaviarepalli.github.io/My-Portfolio-/) 🌍  
 ✅ **resume:** [Click Here](https://drive.google.com/file/d/10WmCAoY6JwVXn69dDzPkQEUQaQ6rf1P2/view?usp=drive_link) 📄  
 ✅ **Reach me at:****pallavia005@gmail.com** ✉️  
 ✅ **Fun Fact:** Dark mode or light mode? Either way, GitHub still looks cool! 🌑☀️
